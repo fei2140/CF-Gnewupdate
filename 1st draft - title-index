@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+  <head>
+    <title>webpageurlname</title>
+    <link rel="stylesheet" href="titlestyles.css">
+  </head>
+
+  <body>
+    <header>
+      <ul>
+        <li> <a href="#"> Home </a> </li>
+        <li> <a href="#"> Locations</a> </li>
+        <li> <a href="#"> Explorers Blog </a> </li>
+        <li> <a href="#"> About us </a> </li>
+        <li></li>
+         </ul>
+       </header>
+
+
+
+  <h1>Webpage Title</h1>
+  <inputtype="search"placeholder="search"> <inputtype="searchbar">
+
+
+ <br>
+
+
+Asia
+  <img src="duck.jpg" alt="duck" height="140" width="140">
+Europe
+ <img src="duck.jpg" alt="duck" height="140" width="140">
+Africa
+  <img src="duck.jpg" alt="duck" height="140" width="140">
+North America
+  <img src="duck.jpg" alt="duck" height="140" width="140">
+South America
+<img src="duck.jpg" alt="duck" height="140" width="140">
+Australasia
+  <img src="duck.jpg" alt="duck" height="140" width="140">
+Antartica
+  <img src="duck.jpg" alt="duck" height="140" width="140">
